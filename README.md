@@ -84,11 +84,4 @@ By completing these labs, learners will understand:
 
 ---
 
-# 📷 Repository Preview
 
-_Add your screenshots here_
-
-Example:
-
-```md
-![Lab Screenshot](screenshots/lab1.png)
